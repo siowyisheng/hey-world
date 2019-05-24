@@ -1,6 +1,14 @@
 # hey-world
 
-Not a Hello World. Hey world is an example of how to make a package repo, the right way.
+Not a Hello World. Hey world is an opinionated example of how to make a python package repo the modern way.
+
+## Technologies
+
+- Python Version --> 3.7
+- Documentation --> Sphinx
+- Testing --> Pytest
+- CI/CD --> CircleCI
+- Virtual environment --> requirements.txt (not pipenv)
 
 ## TO DO
 
